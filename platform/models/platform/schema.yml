@@ -1,0 +1,6 @@
+
+version: 2
+
+models:
+  - name: my_first_dbt_model__platform
+    description: "A starter dbt model"
